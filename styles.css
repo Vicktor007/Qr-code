@@ -9,7 +9,7 @@
 
 body {
     height: 100wh;
-    background-color: rgb(191, 211, 241);
+    background-color: hsl(212, 45%, 89%);
     align-items: center;
     margin-top: 3%;
 }
@@ -23,8 +23,7 @@ body {
     height: 100%;
     width: 90%;
     max-width: 500px;
-    /* max-height: 900px; */
-    background-color: aliceblue;
+    background-color: hsl(212, 45%, 89%);
     margin:  100px auto;
     border-radius: 20px;
     align-self: center;
@@ -44,6 +43,7 @@ h3   {
     text-align: center;
     width: 90%;
     margin: 20px;
+    color: hsl(218, 44%, 22%);
 }
 
 p {
